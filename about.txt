@@ -1,0 +1,11 @@
+Welcome to WikiPet
+
+The program's purpose is to provide essential information about the different types of cat and dog breeds.
+This system aims to give users with comprehensive insights into each breed, encompassing their name, description, pros
+and cons, and maintenance requirements. People have different preferences when it comes to selecting a pet, and the
+system would be of help in providing detailed information to assist individuals in making the right decisions. As each
+breed possesses unique characteristics, it significantly influences their suitability as a pet. And by making potential
+owners to be aware of these traits will not only help them in their decision, but also provide the best environment for
+both the owner and their future friends.
+
+-Earl Escario
